@@ -15,7 +15,7 @@ public class Ex03 {
 			
 		}
 		while (hSet.size()<6);
-		
+
 		System.out.println(hSet.toString());
 	}
 }
